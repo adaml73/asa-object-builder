@@ -1,0 +1,6 @@
+name,fqdn,ip,org
+webserver1,webserver1.noclassnet.org,10.10.180.5,org1
+webserver20,webserver20.noclassnet.org,10.10.1.100,org1
+webserver22,webserver22.noclassnet.org,10.10.1.120,org1
+webserver23,webserver23.noclassnet.org,10.10.1.121,org1
+webserver24,webserver24.noclassnet.org,10.10.1.123,org1
